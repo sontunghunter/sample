@@ -1,0 +1,11 @@
+{
+    "name": "bnst/sample",
+    "description": "nothing",
+    "authors": [
+        {
+            "name": "sontung",
+            "email": "sontung.buinguyen@gmail.com"
+        }
+    ],
+    "require": {}
+}
